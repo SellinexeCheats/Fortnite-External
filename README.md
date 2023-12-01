@@ -1,5 +1,3 @@
-> a commit a day keeps your girlfriend away. **changed to** a commit a day keeps your girlfriend from going away. 😢
-
 <p align="center">
     <img src="https://i.imgur.com/8RGVnyf.png"> 
 </p>
@@ -33,12 +31,9 @@ Press `INSERT`.
 ### How do I unload the cheat?
 Press `END`.
 
-## Credits 
-- dex and maddie for their address, hash, module, netvar, pattern, pe, and vmt classes
-- everyone who contributed to the project!
-
 ## Known issues
 - Some of the code is unoptimized.
 
 ## License
 Licensed under the MIT License. 
+> a commit a day keeps your girlfriend from going away. 😢
