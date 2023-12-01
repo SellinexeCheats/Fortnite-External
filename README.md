@@ -1,7 +1,7 @@
 > a commit a day keeps your girlfriend away. **changed to** a commit a day keeps your girlfriend from going away. 😢
 
 <p align="center">
-    <img src="https://imgur.com/a/NdJ1X23"> 
+    <img src="https://i.imgur.com/V7F8c3L.png"> 
 </p>
 
 ## Preface
