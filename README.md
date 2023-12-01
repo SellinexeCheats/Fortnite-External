@@ -36,4 +36,4 @@ Press `END`.
 
 ## License
 Licensed under the MIT License. 
-> a commit a day keeps your girlfriend from going away. 😢
+> a cheat a day keeps your girlfriend from going away. 😢
